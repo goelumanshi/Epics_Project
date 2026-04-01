@@ -1,0 +1,5 @@
+Accuracy: 94.86%
+Precision: 95.41%
+Recall: 94.86%
+Weighted F1: 94.80%
+Macro F1: 60.43%
